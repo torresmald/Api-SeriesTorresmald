@@ -1,0 +1,354 @@
+[
+  {
+    "id": 1,
+    "title": "Futurama",
+    "director": ["Matt Groening"],
+    "year": 1999,
+    "genre": ["Animated"],
+    "seasons": 7,
+    "platform": "FOX",
+    "picture": "https://res.cloudinary.com/dj5hu7p44/image/upload/v1672137694/Futurama_wvw5zg.jpg",
+    "synopsis": "En Nueva York, el 31 de diciembre de 1999, un joven fracasado, Fry, que trabaja repartiendo pizzas, es accidentalmente congelado en un laboratorio criogénico. Cuando se despierta han pasado 1000 años, se encuentra en 'Nueva' Nueva York, y descubre que el mundo ha sufrido algunas modificaciones.",
+    "isForAdults": false
+  },
+  {
+    "id": 2,
+    "title": "Juego de Tronos",
+    "director": ["David Benioff"],
+    "year": 2011,
+    "genre": ["Fantasy"],
+    "seasons": 8,
+    "platform": "HBO",
+    "picture": "https://res.cloudinary.com/dj5hu7p44/image/upload/v1672393273/MGoT-S6-key-art-vertical-01_rzcqpt.jpg",
+    "synopsis": "En un mundo fantástico y en un contexto medieval varias familias, relativas a la nobleza, se disputan el poder para dominar el territorio ficticio de Poniente (Westeros) y tomar el control de los Siete Reinos desde el Trono de Hierro, lugar donde el rey ejerce el poder.",
+    "isForAdults": true
+
+  },
+  {
+    "id": 3,
+    "title": "Breaking Bad",
+    "director": ["Vince Gilligan"],
+    "year": 2008,
+    "genre": ["Drama"],
+    "seasons": 5,
+    "platform": "HBO",
+    "picture": "https://res.cloudinary.com/dj5hu7p44/image/upload/v1672137694/Breaking_Bad_r6hpzt.jpg",
+    "synopsis": "Un profesor de química con cáncer terminal se asocia con un exalumno suyo para fabricar y vender metanfetamina a fin de que su familia no pase apuros económicos.",
+    "isForAdults": true
+
+  },
+  {
+    "id": 4,
+    "title": "Friends",
+    "director": ["Marta Kauffman", "David Crane"],
+    "year": 1994,
+    "genre": ["Comedy"],
+    "seasons": 5,
+    "platform": "Netflix",
+    "picture": "https://res.cloudinary.com/dj5hu7p44/image/upload/v1672137694/Friends_hqldxv.webp",
+    "synopsis": "Monica, Rachel, Phoebe, Chandler, Ross y Joey son seis amigos treintañeros que viven en Nueva York. Juntos afrontan con humor las dificultades propias de su edad: líos amorosos, trabajo, familia y su propia convivencia.",
+    "isForAdults": false
+
+  },
+  {
+    "id": 5,
+    "title": "Los Soprano",
+    "director": ["David Chase"],
+    "year": 1999,
+    "genre": ["Drama"],
+    "seasons": 6,
+    "platform": "HBO",
+    "picture": "https://res.cloudinary.com/dj5hu7p44/image/upload/v1672393369/Los_Soprano_Serie_de_TV-196243243-large_gy2cxb.jpg",
+    "synopsis": "Se trata de una serie que cuenta las vivencias de una familia de la mafia italiana instalada en Nueva Jersey, y las dificultades que surgen tanto en el hogar como en la organización criminal.",
+    "isForAdults": true
+
+  },
+  {
+    "id": 6,
+    "title": "7 Vidas",
+    "director": ["Nacho G. Velilla"],
+    "year": 1999,
+    "genre": ["Comedy"],
+    "seasons": 15,
+    "platform": "Amazon",
+    "picture": "https://res.cloudinary.com/dj5hu7p44/image/upload/v1672059538/dopfhnzaepbzmfn0rvty.jpg",
+    "synopsis": "Teleserie que narra las historias y devenires personales, profesionales y familiares de un grupo variopinto de personas alrededor del bar 'Kasi ke no'. La serie comienza cuando David despierta de un coma en el que ha estado varios años.",
+    "isForAdults": false
+
+  },
+  {
+    "id": 7,
+    "title": "Mujeres Desesperadas",
+    "director": ["Marc Cherry"],
+    "year": 2004,
+    "genre": ["Comedy", "Mistery", "Soap Opera"],
+    "seasons": 8,
+    "platform": "Disney Plus+",
+    "picture": "https://res.cloudinary.com/dj5hu7p44/image/upload/v1672137751/desperate_housewives_zfi466.jpg",
+    "synopsis": "Wisteria Lane parece el barrio perfecto... quizás demasiado perfecto. Pero bajo esa imagen idílica de sus preciosas casas con jardín, se esconden los secretos, mentiras e imperfecciones de sus vecinos.",
+    "isForAdults": false
+
+  },
+  {
+    "id": 8,
+    "title": "Cómo conocí a vuestra madre",
+    "director": ["Pamela Fryman", "Rob Greenberg"],
+    "year": 2005,
+    "genre": ["Comedy"],
+    "seasons": 9,
+    "platform": "Disney Plus+",
+    "picture": "https://res.cloudinary.com/dj5hu7p44/image/upload/v1672137766/how_I_meet_your_mother_o7zrn7.jpg",
+    "synopsis": "Serie de humor que gira en torno a la vida de un veinteañero y la historia de amor entre él y la mujer con la que se casará y que será la madre de sus hijos. Todo comienza cuando su mejor amigo, Marshall, le suelta el bombazo de que va a pedirle matrimonio a su novia de toda la vida, Lily. En ese momento, Ted se da cuenta de que tiene que espabilar si quiere encontrar también el amor verdadero.",
+    "isForAdults": false
+
+  },
+  {
+    "id": 9,
+    "title": "Dexter",
+    "director": ["Michael Cuesta"],
+    "year": 2006,
+    "genre": ["Crime", "Drama"],
+    "seasons": 9,
+    "platform": "FOX",
+    "picture": "https://res.cloudinary.com/dj5hu7p44/image/upload/v1672137796/Dexter_h0jqkd.jpg",
+    "synopsis": "Dexter Morgan es un forense policial de Miami, experto en analizar sangre, que lleva una vida paralela como vigilante convertido en asesino en serie matando a criminales.",
+    "isForAdults": true
+
+  },
+  {
+    "id": 10,
+    "title": "Narcos",
+    "director": ["José Padilha"],
+    "year": 2015 ,
+    "genre": ["Crime", "Drama", "Biographic"],
+    "seasons": 3 ,
+    "platform": "Netflix",
+    "picture": "https://res.cloudinary.com/dj5hu7p44/image/upload/v1672139383/Narcos_l35sqq.png",
+    "synopsis": "Narra los esfuerzos de Estados Unidos, a través principalmente de la DEA, y de las autoridades y policía de Colombia, para luchar en la década de los 80 contra el narcotraficante Pablo Escobar y el cartel de Medellín, una de las organizaciones criminales más ricas y despiadadas en la historia de la delincuencia moderna. En la tercera temporada el objetivo de la DEA y la policía colombiana es intentar acabar con el cartel de Cali.",
+    "isForAdults": true
+
+  },
+  {
+    "id": 11,
+    "title": "Stranger Things",
+    "director": ["Matt & Ross Duffer"],
+    "year": 2016,
+    "genre": ["Science-fiction"],
+    "seasons": 4 ,
+    "platform": "Netflix",
+    "picture": "https://res.cloudinary.com/dj5hu7p44/image/upload/v1673513059/stranger-things_x0gcn3.jpg",
+    "synopsis": "Cuando un niño desaparece, sus amigos, la familia y la policía se ven envueltos en una serie de eventos misteriosos al tratar de encontrarlo. Su ausencia coincide con el avistamiento de una criatura terrorífica y la aparición de una extraña niña.",
+    "isForAdults": false
+
+  },
+  {
+    "id": 12,
+    "title": "La Serpiente",
+    "director": ["Hans Herbots", "Tom Shankland"],
+    "year": 2021,
+    "genre": ["Crime"],
+    "seasons": 1,
+    "platform": "Netflix",
+    "picture": "https://res.cloudinary.com/dj5hu7p44/image/upload/v1673513792/La_Serpiente_ckth23.jpg",
+    "synopsis": "El despiadado asesino Charles Sobhraj se ensaña con los turistas de la «ruta hippy» del sur de Asia en los años 70. Una historia aterradora basada en hechos reales.",
+    "isForAdults": true
+
+  },
+  {
+    "id": 13,
+    "title": "Sky Rojo",
+    "director": ["Álex Pina", "Esther Martínez"],
+    "year": 2021,
+    "genre": ["Drama"],
+    "seasons": 3,
+    "platform": "Netflix",
+    "picture": "https://res.cloudinary.com/dj5hu7p44/image/upload/v1673515428/Sky_Rojo_emvkzj.jpg",
+    "synopsis": "Una serie de fatídicos incidentes en un burdel obliga a tres mujeres perseguidas por su pasado a emprender una huida salvaje para escapar de su proxeneta y sus secuaces.",
+    "isForAdults": true
+
+  },
+  {
+    "id": 14,
+    "title": "Velvet",
+    "director": ["Gustavo Ron", "Jorge Torregrossa"],
+    "year": 2014,
+    "genre": ["Drama"],
+    "seasons": 4,
+    "platform": "Amazon",
+    "picture": "https://res.cloudinary.com/dj5hu7p44/image/upload/v1673516639/Velvet_vxddxy.jpg",
+    "synopsis": "Narra la historia, llena de glamour y moda, de un grupo de unos personajes, de clase alta, durante la época del franquismo. Está centrada en la catástrofe que supuso la desaparición de la alta costura y la aparición del prêt à porter para la moda española.",
+    "isForAdults": true
+
+  },
+  {
+    "id": 15,
+    "title": "Mare of Easttown",
+    "director": ["Craig Zobel"],
+    "year": 2021,
+    "genre": ["Crime"],
+    "seasons": 1,
+    "platform": "HBO",
+    "picture": "https://res.cloudinary.com/dj5hu7p44/image/upload/v1673517293/Mare-of-Easttown_asne8b.jpg",
+    "synopsis": "La detective de un pueblo de Pensilvania investiga un crimen mientras su vida se desmorona. La serie explora el lado oscuro de una comunidad muy unida y analiza cómo la familia y las tragedias del pasado pueden definir nuestro presente.",
+    "isForAdults": true
+
+  },
+  {
+    "id": 16,
+    "title": "Los Simpsons",
+    "director": ["Matt Groening"],
+    "year": 1989,
+    "genre": ["Animated"],
+    "seasons": 34,
+    "platform": "Disney Plus+",
+    "picture": "https://res.cloudinary.com/dj5hu7p44/image/upload/v1673525280/the_simpsons_ecdsx9.jpg",
+    "synopsis": "La serie es una sátira hacia la sociedad estadounidense que narra la vida y el día a día de una familia de clase media de ese país (cuyos miembros son Homer, Marge, Bart, Lisa y Maggie Simpson) que vive en un pueblo ficticio llamado Springfield.",
+    "isForAdults": false
+
+  },
+  {
+    "id": 17,
+    "title": "Rick y Morty",
+    "director": ["Justin Roiland", "Dan Harmon"],
+    "year": 2013,
+    "genre": ["Animated"],
+    "seasons": 6,
+    "platform": "Netflix",
+    "picture": "https://res.cloudinary.com/dj5hu7p44/image/upload/v1673525279/rick_y_morty_gadujt.jpg",
+    "synopsis": "Rick Sánchez es un ejemplo del típico 'científico loco'. Es un genio, pero es irresponsable, alcohólico, egoísta, un poco depresivo y con poca cordura. Rick por diferentes razones termina mudándose a la casa de su hija Beth y en ese momento se encuentra con su nieto Morty; un chico de 14 años de edad, tímido y no muy listo. Al juntarse con su nieto, Rick y Morty viven una variedad de aventuras a lo largo del cosmos y universos paralelos. Y es mediante tantas vivencias y reflexiones que Rick busca que su nieto Morty no acabe como su padre, Jerry, un hombre muy poco exitoso que a pesar de tener buenas intenciones resulta ser bastante inútil en muchas ocasiones y depende mucho de su esposa, Beth, hija de Rick.",
+    "isForAdults": false
+  },
+  {
+    "id": 18,
+    "title": "Hijos de la Anarquía",
+    "director": ["Kurt Sutter"],
+    "year": 2008,
+    "genre": ["Crime", "Drama"],
+    "seasons": 8,
+    "platform": "FOX",
+    "picture": "https://res.cloudinary.com/dj5hu7p44/image/upload/v1673525279/sons_of_anarchy_smjfuv.jpg",
+    "synopsis": "La serie se centra en la vida del protagonista Jackson Jax Teller (Charlie Hunnam), un joven miembro con rango de vicepresidente que comienza a cuestionarse sus propios actos y los de su club. En la mayor parte de su arco narrativo, Jax puede considerarse como un antihéroe, aunque cada día está más cerca de la oscuridad.",
+    "isForAdults": true
+  },
+  {
+    "id": 19,
+    "title": "El juego del Calamar",
+    "director": ["Hwang Dong-hyuk"],
+    "year": 2021,
+    "genre": ["Crime", "Drama"],
+    "seasons": 1,
+    "platform": "Netflix",
+    "picture": "https://res.cloudinary.com/dj5hu7p44/image/upload/v1673525279/el_juego_del_calamar_tx8qag.jpg",
+    "synopsis": "La serie se centra en un concurso en el que 456 jugadores, todos de diferentes ámbitos de la vida, pero todos profundamente endeudados, juegan a una serie de juegos infantiles con consecuencias fatales si pierden, para tener la oportunidad de ganar 45 600 millones de wones.",
+    "isForAdults": true
+
+  },
+  {
+    "id": 20,
+    "title": "The Witcher",
+    "director": ["Lauren Schmidt Hissrich"],
+    "year": 2019,
+    "genre": ["Fantasy", "Drama"],
+    "seasons": 2,
+    "platform": "Netflix",
+    "picture": "https://res.cloudinary.com/dj5hu7p44/image/upload/v1673525279/the_witcher_flhjjh.jpg",
+    "synopsis": "Ubicada en un mundo medieval en una masa de tierra conocida como 'el Continente', The Witcher explora la leyenda de Geralt de Rivia y la princesa Ciri, que están unidos el uno al otro por el destino.",
+    "isForAdults": true
+  },
+  {
+    "id": 21,
+    "title": "The Walking Dead",
+    "director": ["Frank Darabont"],
+    "year": 2010,
+    "genre": ["Horror"],
+    "seasons": 11,
+    "platform": "HBO",
+    "picture": "https://res.cloudinary.com/dpyvlsksj/image/upload/v1675012365/walkingdead_roo67q.jpg",
+    "synopsis": "The Walking Dead está basada en un mundo post-apocalíptico repleto de zombis, llamados caminantes, en el que un grupo de supervivientes debe de luchar por su vida frente a la plaga de estos y los peligros de otros grupos de humanos hostiles.",
+    "isForAdults": true
+  },
+  {
+    "id": 22,
+    "title": "Hermanos de Sangre",
+    "director": ["Stephen Ambrose"],
+    "year": 2019,
+    "genre": ["Historical", "Action"],
+    "seasons": 1,
+    "platform": "HBO",
+    "picture": "https://res.cloudinary.com/dpyvlsksj/image/upload/v1675012365/bob_bbzvfv.jpg",
+    "synopsis": "Los sucesos retratados en la miniserie tratan de ser fieles a la historia y se basan en la investigación de Ambrose y en entrevistas hechas a veteranos de la Easy Company. Todos los personajes que aparecen en la miniserie están basados en personajes reales de dicha compañía; además, algunos de ellos aparecen en entrevistas pregrabadas como prólogo a cada episodio.",
+    "isForAdults": true
+  },
+  {
+    "id": 23,
+    "title": "Homeland",
+    "director": ["Howard Gordon"],
+    "year": 2011,
+    "genre": ["Action", "Thriller"],
+    "seasons": 8,
+    "platform": "HBO",
+    "picture": "https://res.cloudinary.com/dpyvlsksj/image/upload/v1675024414/homeland_vjeygc.jpg",
+    "synopsis": "La serie sigue a Carrie Mathison (Claire Danes), una oficial de operaciones de la CIA que, después de realizar una operación no autorizada en Irak, es destinada a centro de contraespionaje de la CIA en Langley, Virginia. Mientras ella estaba llevando a cabo la operación en Irak, fue advertida por un activo que un prisionero de guerra estadounidense se había unido al grupo terrorista Al-Qaeda.",
+    "isForAdults": false
+  },
+  {
+    "id": 24,
+    "title": "Dragon Ball",
+    "director": ["Akira Toriyama"],
+    "year": 1986,
+    "genre": ["Fantasy"],
+    "seasons": 1,
+    "platform": "TV",
+    "picture": "https://res.cloudinary.com/dpyvlsksj/image/upload/v1675012365/db_mpr1hw.jpg",
+    "synopsis": "Describe las aventuras de Gokū, un guerrero saiyajin, experto en artes marciales que en su infancia inicia sus viajes y aventuras en las que pone a prueba y mejora sus habilidades de pelea, enfrentando oponentes y protegiendo a la Tierra de otros seres que quieren conquistarla y exterminar a la humanidad.",
+    "isForAdults": false
+  },
+  {
+    "id": 25,
+    "title": "Dragon Ball Z",
+    "director": ["Akira Toriyama"],
+    "year": 1989,
+    "genre": ["Fantasy"],
+    "seasons": 1,
+    "platform": "TV",
+    "picture": "https://res.cloudinary.com/dpyvlsksj/image/upload/v1675024348/dbz_yexjve.jpg",
+    "synopsis": "Se centra en la vida adulta de Son Goku, quien tendrá que defender la tierra de los numerosos villanos que amenazan con destruirla. Además, la serie trama de forma paralela la madurez de su hijo Gohan. La producción destaca por tener un tono más serio que su predecesora.",
+    "isForAdults": false
+  },
+  {
+    "id": 26,
+    "title": "Dragon Ball GT",
+    "director": ["Akira Toriyama"],
+    "year": 1996,
+    "genre": ["Fantasy"],
+    "seasons": 1,
+    "platform": "TV",
+    "picture": "https://res.cloudinary.com/dpyvlsksj/image/upload/v1675024348/dbgt_aahvso.jpg",
+    "synopsis": "Goku, Trunks y Pan continúan con la búsqueda de las Bolas de Dragón en el Universo. Goku debe enfrentarse a un gigante que se come la esfera de cuatro estrellas. Al tener una muela con caries, la bola se le queda encajada y Goku será el dentista que cure al gigante y recupere la Bola de Dragón.",
+    "isForAdults": false
+  },
+  {
+    "id": 27,
+    "title": "Los Rugrats",
+    "director": ["Arlene Klasky", "Gábor Csupó"],
+    "year": 1991,
+    "genre": ["Fantasy"],
+    "seasons": 9,
+    "platform": "TV",
+    "picture": "https://res.cloudinary.com/dpyvlsksj/image/upload/v1675012365/rugrats_cafpd5.jpg",
+    "synopsis": "Las vacaciones familiares de los Rugrats dan un giro tan inesperado como exótico cuando su barco naufraga junto a una isla tropical desierta. Con la selva como nuevo patio de juegos, los pequeños van de una peligrosa aventura a otra.",
+    "isForAdults": false
+  },
+  {
+    "id": 28,
+    "title": "House of Cards",
+    "director": ["Beau Willimon"],
+    "year": 2019,
+    "genre": ["Drama"],
+    "seasons": 6,
+    "platform": "Netflix",
+    "picture": "https://res.cloudinary.com/dpyvlsksj/image/upload/v1675012365/house_z1dgun.jpg",
+    "synopsis": "El implacable y manipulador congresista Francis Underwood (Kevin Spacey), con la complicidad de su calculadora mujer (Robin Wright), maneja con gran destreza los hilos de poder en Washington",
+    "isForAdults": false
+  }
+]
